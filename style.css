@@ -1,0 +1,23 @@
+
+body {
+    background-color: #00b3ff; 
+    font-family: Arial, sans-serif; /* Muda o tipo da letra */
+    text-align: center; /* Centraliza tudo na tela */
+    padding: 50px;
+}
+
+h1 {
+    color: #04006b; 
+}
+
+a {
+    color: white; 
+    background-color: #00f7ff; 
+    padding: 10px 20px; /* Espaço interno para parecer um botão */
+    text-decoration: none; /* Remove o sublinhado do link */
+    border-radius: 5px; /* Deixa as pontas arredondadas */
+}
+
+a:hover {
+    background-color: #0042f7; /* Muda de cor quando passa o mouse */
+}
